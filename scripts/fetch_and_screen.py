@@ -34,10 +34,17 @@ def save(symbol, df):
 def us_top100():
     import yfinance as yf
     try:
-        q = yf.EquityQuery('and', [yf.EquityQuery('eq', ['region', 'us']), yf.EquityQuery('gt', ['intradaymarketcap', 5e10])])
-        r = yf.screen(q, sortField='intradaymarketcap', sortAsc=False, size=120)
-        rows = [(x['symbol'], x.get('longName') or x.get('shortName') or x['symbol']) for x in r.get('quotes', [])
-                if x.get('quoteType') == 'EQUITY' and '.' not in x['symbol'] and '-' not in x['symbol']]
+        # US-listed only: OTC tickers (e.g. CICHY, CICHF) and foreign duplicates are excluded by exchange code
+        exch = ['NMS', 'NYQ', 'NGM', 'NCM', 'ASE']
+        q = yf.EquityQuery('and', [yf.EquityQuery('eq', ['region', 'us']), yf.EquityQuery('is-in', ['exchange'] + exch),
+                                   yf.EquityQuery('gt', ['intradaymarketcap', 5e10])])
+        r = yf.screen(q, sortField='intradaymarketcap', sortAsc=False, size=150)
+        rows, seen = [], set()
+        for x in r.get('quotes', []):
+            nm = x.get('longName') or x.get('shortName') or x['symbol']
+            if x.get('quoteType') != 'EQUITY' or x.get('exchange') not in exch or '.' in x['symbol'] or '-' in x['symbol'] or nm in seen:
+                continue  # one listing per company (e.g. GOOGL/GOOG share one name)
+            seen.add(nm); rows.append((x['symbol'], nm))
         if len(rows) >= 80:
             return rows[:100]
         status['errors'].append(f'us screener returned {len(rows)}')
