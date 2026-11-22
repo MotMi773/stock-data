@@ -2,103 +2,103 @@ market,symbol,name,rank
 US,AAPL,Apple Inc.,1
 US,MSFT,Microsoft Corporation,2
 US,GOOGL,Alphabet Inc.,3
-US,GOOG,Alphabet Inc.,4
-US,NVDA,NVIDIA Corporation,5
-US,AMZN,"Amazon.com, Inc.",6
-US,SPCX,Space Exploration Technologies Corp.,7
-US,TSM,Taiwan Semiconductor Manufacturing Company Limited,8
-US,AVGO,Broadcom Inc.,9
-US,META,"Meta Platforms, Inc.",10
-US,TSLA,"Tesla, Inc.",11
-US,LLY,Eli Lilly and Company,12
-US,ANT,"Anthropic, PBC",13
-US,WMT,Walmart Inc.,14
-US,JPM,JPMorgan Chase & Co.,15
-US,V,Visa Inc.,16
-US,SKHY,SK hynix Inc.,17
-US,AMD,"Advanced Micro Devices, Inc.",18
-US,MU,"Micron Technology, Inc.",19
-US,XOM,ExxonMobil Holdings Corporation,20
-US,JNJ,Johnson & Johnson,21
-US,MA,Mastercard Incorporated,22
-US,ABBV,AbbVie Inc.,23
-US,ASMLF,ASML Holding N.V.,24
-US,COST,Costco Wholesale Corporation,25
-US,ASML,ASML Holding N.V.,26
-US,IDCBF,Industrial and Commercial Bank of China Limited,27
-US,IDCBY,Industrial and Commercial Bank of China Limited,28
-US,SSNLF,"Samsung Electronics Co., Ltd.",29
-US,KO,The Coca-Cola Company,30
-US,CVX,Chevron Corporation,31
-US,PG,The Procter & Gamble Company,32
-US,TCEHY,Tencent Holdings Limited,33
-US,TCTZF,Tencent Holdings Limited,34
-US,RHHVF,Roche Holding AG,35
-US,RHHBF,Roche Holding AG,36
-US,RHHBY,Roche Holding AG,37
-US,CSCO,"Cisco Systems, Inc.",38
-US,CICHF,China Construction Bank Corporation,39
-US,CICHY,China Construction Bank Corporation,40
-US,PLTR,Palantir Technologies Inc.,41
-US,HD,"The Home Depot, Inc.",42
-US,MRK,"Merck & Co., Inc.",43
-US,BAC,Bank of America Corporation,44
-US,GE,GE Aerospace,45
-US,ORCL,Oracle Corporation,46
-US,PCCYF,PetroChina Company Limited,47
-US,UNH,UnitedHealth Group Incorporated,48
-US,ACGBY,Agricultural Bank of China Limited,49
-US,NVSEF,Novartis AG,50
-US,PM,Philip Morris International Inc.,51
-US,NVS,Novartis AG,52
-US,PANW,"Palo Alto Networks, Inc.",53
-US,HBCYF,HSBC Holdings plc,54
-US,HSBC,HSBC Holdings plc,55
-US,INTC,Intel Corporation,56
-US,AZN,AstraZeneca PLC,57
-US,ACGBF,Agricultural Bank of China Limited,58
-US,CGXYY,"China Galaxy Securities Co., Ltd.",59
-US,SHEL,Shell plc,60
-US,RYDAF,Shell plc,61
-US,NSRGY,Nestlé S.A.,62
-US,MS,Morgan Stanley,63
-US,NSRGF,Nestlé S.A.,64
-US,RTX,RTX Corporation,65
-US,BACHF,Bank of China Limited,66
-US,RY,Royal Bank of Canada,67
-US,LRLCY,L'Oréal S.A.,68
-US,LRLCF,L'Oréal S.A.,69
-US,BACHY,Bank of China Limited,70
-US,TMO,Thermo Fisher Scientific Inc.,71
-US,TOYOF,Toyota Motor Corporation,72
-US,TM,Toyota Motor Corporation,73
-US,TXN,Texas Instruments Incorporated,74
-US,AMAT,"Applied Materials, Inc.",75
-US,WFC,Wells Fargo & Company,76
-US,AMGN,Amgen Inc.,77
-US,CRWD,"CrowdStrike Holdings, Inc.",78
-US,CAT,Caterpillar Inc.,79
-US,NFLX,"Netflix, Inc.",80
-US,LIN,Linde plc,81
-US,SAPGF,SAP SE,82
-US,SAP,SAP SE,83
-US,LRCX,Lam Research Corporation,84
-US,GS,"The Goldman Sachs Group, Inc.",85
-US,IBM,International Business Machines Corporation,86
-US,ANET,"Arista Networks, Inc.",87
-US,MUFG,"Mitsubishi UFJ Financial Group, Inc.",88
-US,SMAWF,Siemens Aktiengesellschaft,89
-US,SIEGY,Siemens Aktiengesellschaft,90
-US,GILD,"Gilead Sciences, Inc.",91
-US,MBFJF,"Mitsubishi UFJ Financial Group, Inc.",92
-US,LVMUY,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",93
-US,LVMHF,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",94
-US,BABAF,Alibaba Group Holding Limited,95
-US,AXP,American Express Company,96
-US,BABA,Alibaba Group Holding Limited,97
-US,DIS,The Walt Disney Company,98
-US,CTATF,"Contemporary Amperex Technology Co., Limited",99
-US,IDEXY,"Industria de Diseño Textil, S.A.",100
+US,NVDA,NVIDIA Corporation,4
+US,AMZN,"Amazon.com, Inc.",5
+US,SPCX,Space Exploration Technologies Corp.,6
+US,TSM,Taiwan Semiconductor Manufacturing Company Limited,7
+US,AVGO,Broadcom Inc.,8
+US,META,"Meta Platforms, Inc.",9
+US,TSLA,"Tesla, Inc.",10
+US,LLY,Eli Lilly and Company,11
+US,ANT,"Anthropic, PBC",12
+US,WMT,Walmart Inc.,13
+US,JPM,JPMorgan Chase & Co.,14
+US,V,Visa Inc.,15
+US,SKHY,SK hynix Inc.,16
+US,AMD,"Advanced Micro Devices, Inc.",17
+US,MU,"Micron Technology, Inc.",18
+US,XOM,ExxonMobil Holdings Corporation,19
+US,JNJ,Johnson & Johnson,20
+US,MA,Mastercard Incorporated,21
+US,ABBV,AbbVie Inc.,22
+US,COST,Costco Wholesale Corporation,23
+US,ASML,ASML Holding N.V.,24
+US,KO,The Coca-Cola Company,25
+US,CVX,Chevron Corporation,26
+US,PG,The Procter & Gamble Company,27
+US,CSCO,"Cisco Systems, Inc.",28
+US,PLTR,Palantir Technologies Inc.,29
+US,HD,"The Home Depot, Inc.",30
+US,MRK,"Merck & Co., Inc.",31
+US,BAC,Bank of America Corporation,32
+US,GE,GE Aerospace,33
+US,ORCL,Oracle Corporation,34
+US,UNH,UnitedHealth Group Incorporated,35
+US,PM,Philip Morris International Inc.,36
+US,NVS,Novartis AG,37
+US,PANW,"Palo Alto Networks, Inc.",38
+US,HSBC,HSBC Holdings plc,39
+US,INTC,Intel Corporation,40
+US,AZN,AstraZeneca PLC,41
+US,SHEL,Shell plc,42
+US,MS,Morgan Stanley,43
+US,RTX,RTX Corporation,44
+US,RY,Royal Bank of Canada,45
+US,TMO,Thermo Fisher Scientific Inc.,46
+US,TM,Toyota Motor Corporation,47
+US,TXN,Texas Instruments Incorporated,48
+US,AMAT,"Applied Materials, Inc.",49
+US,WFC,Wells Fargo & Company,50
+US,AMGN,Amgen Inc.,51
+US,CRWD,"CrowdStrike Holdings, Inc.",52
+US,CAT,Caterpillar Inc.,53
+US,NFLX,"Netflix, Inc.",54
+US,LIN,Linde plc,55
+US,SAP,SAP SE,56
+US,LRCX,Lam Research Corporation,57
+US,GS,"The Goldman Sachs Group, Inc.",58
+US,IBM,International Business Machines Corporation,59
+US,ANET,"Arista Networks, Inc.",60
+US,MUFG,"Mitsubishi UFJ Financial Group, Inc.",61
+US,GILD,"Gilead Sciences, Inc.",62
+US,AXP,American Express Company,63
+US,BABA,Alibaba Group Holding Limited,64
+US,DIS,The Walt Disney Company,65
+US,MCD,McDonald's Corporation,66
+US,VZ,Verizon Communications Inc.,67
+US,PEP,"PepsiCo, Inc.",68
+US,TTE,TotalEnergies SE,69
+US,GEV,GE Vernova Inc.,70
+US,TD,The Toronto-Dominion Bank,71
+US,C,Citigroup Inc.,72
+US,ABT,Abbott Laboratories,73
+US,DELL,Dell Technologies Inc.,74
+US,WELL,Welltower Inc.,75
+US,TMUS,"T-Mobile US, Inc.",76
+US,NEE,"NextEra Energy, Inc.",77
+US,APH,Amphenol Corporation,78
+US,BHP,BHP Group Limited,79
+US,UNP,Union Pacific Corporation,80
+US,BLK,"BlackRock, Inc.",81
+US,ADI,"Analog Devices, Inc.",82
+US,NVO,Novo Nordisk A/S,83
+US,KLAC,KLA Corporation,84
+US,DE,Deere & Company,85
+US,ARM,Arm Holdings plc,86
+US,COP,ConocoPhillips,87
+US,QCOM,QUALCOMM Incorporated,88
+US,SAN,"Banco Santander, S.A.",89
+US,SHOP,Shopify Inc.,90
+US,SONY,Sony Group Corporation,91
+US,PFE,Pfizer Inc.,92
+US,BUD,Anheuser-Busch InBev SA/NV,93
+US,SCHW,The Charles Schwab Corporation,94
+US,DHR,Danaher Corporation,95
+US,TJX,"The TJX Companies, Inc.",96
+US,T,AT&T Inc.,97
+US,CRM,"Salesforce, Inc.",98
+US,CB,Chubb Limited,99
+US,HDB,HDFC Bank Limited,100
 KR,005930,삼성전자,1
 KR,000660,SK하이닉스,2
 KR,402340,SK스퀘어,3
