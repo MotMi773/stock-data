@@ -32,6 +32,11 @@
       "name": "스페이스X"
     },
     {
+      "symbol": "ANT",
+      "market": "US",
+      "name": "앤트로픽"
+    },
+    {
       "symbol": "005380",
       "market": "KR",
       "name": "현대차"
