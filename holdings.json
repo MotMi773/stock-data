@@ -1,0 +1,16 @@
+{
+  "note": "Tickers only (no amounts). Updated monthly by the Banksalad import task.",
+  "holdings": [
+    {"symbol": "GOOGL", "market": "US", "name": "알파벳 Class A"},
+    {"symbol": "C", "market": "US", "name": "씨티그룹"},
+    {"symbol": "UBER", "market": "US", "name": "우버"},
+    {"symbol": "JOBY", "market": "US", "name": "조비 에비에이션"},
+    {"symbol": "RR", "market": "US", "name": "리치테크 로보틱스"},
+    {"symbol": "005380", "market": "KR", "name": "현대차"},
+    {"symbol": "005490", "market": "KR", "name": "POSCO홀딩스"},
+    {"symbol": "133690", "market": "KR", "name": "TIGER 미국나스닥100"},
+    {"symbol": "360750", "market": "KR", "name": "TIGER 미국S&P500"}
+  ],
+  "extra_us": ["QQQ", "SPY"],
+  "exclude": []
+}

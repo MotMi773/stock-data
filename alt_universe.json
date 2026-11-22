@@ -1,0 +1,25 @@
+{
+  "note": "Gold, base metals and short-term bonds screened alongside stocks. Tickers only. Korean codes are KRX 6-digit ETF codes.",
+  "categories": {
+    "금": [
+      {"symbol": "GLD", "name": "SPDR Gold Shares", "market": "US"},
+      {"symbol": "IAU", "name": "iShares Gold Trust", "market": "US"},
+      {"symbol": "GDX", "name": "VanEck Gold Miners", "market": "US"},
+      {"symbol": "411060", "name": "ACE KRX금현물", "market": "KR"}
+    ],
+    "비철금속": [
+      {"symbol": "DBB", "name": "Invesco DB Base Metals", "market": "US"},
+      {"symbol": "CPER", "name": "United States Copper Index", "market": "US"},
+      {"symbol": "COPX", "name": "Global X Copper Miners", "market": "US"},
+      {"symbol": "160580", "name": "TIGER 구리실물", "market": "KR"}
+    ],
+    "단기채권": [
+      {"symbol": "SGOV", "name": "iShares 0-3 Month Treasury", "market": "US"},
+      {"symbol": "BIL", "name": "SPDR 1-3 Month T-Bill", "market": "US"},
+      {"symbol": "SHY", "name": "iShares 1-3 Year Treasury", "market": "US"},
+      {"symbol": "153130", "name": "KODEX 단기채권", "market": "KR"},
+      {"symbol": "157450", "name": "TIGER 단기통안채", "market": "KR"}
+    ]
+  },
+  "picks_per_category": 2
+}
