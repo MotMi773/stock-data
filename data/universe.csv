@@ -1,201 +1,201 @@
 market,symbol,name,rank
 US,AAPL,Apple Inc.,1
-US,MSFT,Microsoft Corporation,2
-US,GOOGL,Alphabet Inc.,3
-US,NVDA,NVIDIA Corporation,4
+US,NVDA,NVIDIA Corporation,2
+US,MSFT,Microsoft Corporation,3
+US,GOOGL,Alphabet Inc.,4
 US,AMZN,"Amazon.com, Inc.",5
-US,SPCX,Space Exploration Technologies Corp.,6
-US,TSM,Taiwan Semiconductor Manufacturing Company Limited,7
-US,AVGO,Broadcom Inc.,8
-US,META,"Meta Platforms, Inc.",9
-US,TSLA,"Tesla, Inc.",10
+US,TSM,Taiwan Semiconductor Manufacturing Company Limited,6
+US,SPCX,Space Exploration Technologies Corp.,7
+US,META,"Meta Platforms, Inc.",8
+US,TSLA,"Tesla, Inc.",9
+US,AVGO,Broadcom Inc.,10
 US,LLY,Eli Lilly and Company,11
 US,ANT,"Anthropic, PBC Class A Common Stock",12
 US,WMT,Walmart Inc.,13
-US,JPM,JPMorgan Chase & Co.,14
-US,V,Visa Inc.,15
-US,SKHY,SK hynix Inc.,16
-US,AMD,"Advanced Micro Devices, Inc.",17
-US,MU,"Micron Technology, Inc.",18
-US,XOM,ExxonMobil Holdings Corporation,19
-US,JNJ,Johnson & Johnson,20
+US,SKHY,SK hynix Inc.,14
+US,JPM,JPMorgan Chase & Co.,15
+US,MU,"Micron Technology, Inc.",16
+US,V,Visa Inc.,17
+US,AMD,"Advanced Micro Devices, Inc.",18
+US,JNJ,Johnson & Johnson,19
+US,XOM,ExxonMobil Holdings Corporation,20
 US,MA,Mastercard Incorporated,21
-US,ABBV,AbbVie Inc.,22
-US,COST,Costco Wholesale Corporation,23
-US,ASML,ASML Holding N.V.,24
+US,ASML,ASML Holding N.V.,22
+US,ABBV,AbbVie Inc.,23
+US,COST,Costco Wholesale Corporation,24
 US,KO,The Coca-Cola Company,25
 US,CVX,Chevron Corporation,26
 US,PG,The Procter & Gamble Company,27
-US,CSCO,"Cisco Systems, Inc.",28
-US,PLTR,Palantir Technologies Inc.,29
-US,HD,"The Home Depot, Inc.",30
-US,MRK,"Merck & Co., Inc.",31
-US,BAC,Bank of America Corporation,32
-US,GE,GE Aerospace,33
-US,ORCL,Oracle Corporation,34
-US,UNH,UnitedHealth Group Incorporated,35
-US,PM,Philip Morris International Inc.,36
-US,NVS,Novartis AG,37
-US,PANW,"Palo Alto Networks, Inc.",38
-US,HSBC,HSBC Holdings plc,39
-US,INTC,Intel Corporation,40
-US,AZN,AstraZeneca PLC,41
-US,QH,Quhuo Limited,42
-US,SHEL,Shell plc,43
+US,PLTR,Palantir Technologies Inc.,28
+US,CSCO,"Cisco Systems, Inc.",29
+US,ORCL,Oracle Corporation,30
+US,HD,"The Home Depot, Inc.",31
+US,MRK,"Merck & Co., Inc.",32
+US,BAC,Bank of America Corporation,33
+US,GE,GE Aerospace,34
+US,INTC,Intel Corporation,35
+US,UNH,UnitedHealth Group Incorporated,36
+US,PANW,"Palo Alto Networks, Inc.",37
+US,NVS,Novartis AG,38
+US,PM,Philip Morris International Inc.,39
+US,HSBC,HSBC Holdings plc,40
+US,QH,Quhuo Limited,41
+US,AMAT,"Applied Materials, Inc.",42
+US,AZN,AstraZeneca PLC,43
 US,MS,Morgan Stanley,44
-US,RTX,RTX Corporation,45
-US,RY,Royal Bank of Canada,46
-US,TMO,Thermo Fisher Scientific Inc.,47
-US,TM,Toyota Motor Corporation,48
-US,TXN,Texas Instruments Incorporated,49
-US,AMAT,"Applied Materials, Inc.",50
-US,WFC,Wells Fargo & Company,51
-US,AMGN,Amgen Inc.,52
-US,CRWD,"CrowdStrike Holdings, Inc.",53
-US,CAT,Caterpillar Inc.,54
+US,TXN,Texas Instruments Incorporated,45
+US,RTX,RTX Corporation,46
+US,SHEL,Shell plc,47
+US,LRCX,Lam Research Corporation,48
+US,RY,Royal Bank of Canada,49
+US,TMO,Thermo Fisher Scientific Inc.,50
+US,CAT,Caterpillar Inc.,51
+US,TM,Toyota Motor Corporation,52
+US,AMGN,Amgen Inc.,53
+US,WFC,Wells Fargo & Company,54
 US,NFLX,"Netflix, Inc.",55
-US,LIN,Linde plc,56
-US,SAP,SAP SE,57
-US,LRCX,Lam Research Corporation,58
-US,GS,"The Goldman Sachs Group, Inc.",59
+US,GS,"The Goldman Sachs Group, Inc.",56
+US,LIN,Linde plc,57
+US,SAP,SAP SE,58
+US,ANET,"Arista Networks, Inc.",59
 US,IBM,International Business Machines Corporation,60
-US,ANET,"Arista Networks, Inc.",61
-US,MUFG,"Mitsubishi UFJ Financial Group, Inc.",62
-US,GILD,"Gilead Sciences, Inc.",63
-US,AXP,American Express Company,64
-US,BABA,Alibaba Group Holding Limited,65
-US,DIS,The Walt Disney Company,66
-US,MCD,McDonald's Corporation,67
-US,VZ,Verizon Communications Inc.,68
-US,PEP,"PepsiCo, Inc.",69
-US,TTE,TotalEnergies SE,70
-US,GEV,GE Vernova Inc.,71
-US,TD,The Toronto-Dominion Bank,72
-US,C,Citigroup Inc.,73
-US,ABT,Abbott Laboratories,74
-US,DELL,Dell Technologies Inc.,75
-US,WELL,Welltower Inc.,76
-US,TMUS,"T-Mobile US, Inc.",77
-US,NEE,"NextEra Energy, Inc.",78
-US,APH,Amphenol Corporation,79
-US,BHP,BHP Group Limited,80
-US,UNP,Union Pacific Corporation,81
-US,BLK,"BlackRock, Inc.",82
-US,ADI,"Analog Devices, Inc.",83
-US,NVO,Novo Nordisk A/S,84
-US,KLAC,KLA Corporation,85
-US,DE,Deere & Company,86
-US,ARM,Arm Holdings plc,87
-US,COP,ConocoPhillips,88
-US,QCOM,QUALCOMM Incorporated,89
+US,MUFG,"Mitsubishi UFJ Financial Group, Inc.",61
+US,BABA,Alibaba Group Holding Limited,62
+US,CRWD,"CrowdStrike Holdings, Inc.",63
+US,DELL,Dell Technologies Inc.,64
+US,GILD,"Gilead Sciences, Inc.",65
+US,AXP,American Express Company,66
+US,DIS,The Walt Disney Company,67
+US,GEV,GE Vernova Inc.,68
+US,MCD,McDonald's Corporation,69
+US,VZ,Verizon Communications Inc.,70
+US,APH,Amphenol Corporation,71
+US,PEP,"PepsiCo, Inc.",72
+US,KLAC,KLA Corporation,73
+US,C,Citigroup Inc.,74
+US,ARM,Arm Holdings plc,75
+US,TD,The Toronto-Dominion Bank,76
+US,TTE,TotalEnergies SE,77
+US,ADI,"Analog Devices, Inc.",78
+US,BHP,BHP Group Limited,79
+US,ABT,Abbott Laboratories,80
+US,QCOM,QUALCOMM Incorporated,81
+US,WELL,Welltower Inc.,82
+US,BLK,"BlackRock, Inc.",83
+US,TMUS,"T-Mobile US, Inc.",84
+US,NEE,"NextEra Energy, Inc.",85
+US,SHOP,Shopify Inc.,86
+US,NVO,Novo Nordisk A/S,87
+US,UNP,Union Pacific Corporation,88
+US,DE,Deere & Company,89
 US,SAN,"Banco Santander, S.A.",90
-US,SHOP,Shopify Inc.,91
-US,SONY,Sony Group Corporation,92
-US,PFE,Pfizer Inc.,93
-US,BUD,Anheuser-Busch InBev SA/NV,94
-US,SCHW,The Charles Schwab Corporation,95
-US,DHR,Danaher Corporation,96
+US,SONY,Sony Group Corporation,91
+US,SCHW,The Charles Schwab Corporation,92
+US,DHR,Danaher Corporation,93
+US,COP,ConocoPhillips,94
+US,PFE,Pfizer Inc.,95
+US,BUD,Anheuser-Busch InBev SA/NV,96
 US,TJX,"The TJX Companies, Inc.",97
-US,T,AT&T Inc.,98
-US,CRM,"Salesforce, Inc.",99
-US,CB,Chubb Limited,100
-KR,060310,3S,1
-KR,095570,AJ네트웍스,2
-KR,006840,AK홀딩스,3
-KR,054620,APS,4
-KR,079810,APS이노베이션,5
-KR,265520,AP시스템,6
-KR,211270,AP위성,7
-KR,027410,BGF,8
-KR,282330,BGF리테일,9
-KR,126600,BGF에코머티리얼즈,10
-KR,138930,BNK금융지주,11
-KR,001460,BYC,12
-KR,083790,CG인바이츠,13
-KR,001040,CJ,14
-KR,079160,CJ CGV,15
-KR,035760,CJ ENM,16
-KR,311690,CJ 바이오사이언스,17
-KR,00104K,CJ4우(전환),18
-KR,000120,CJ대한통운,19
-KR,011150,CJ씨푸드,20
-KR,097950,CJ제일제당,21
-KR,051500,CJ프레시웨이,22
-KR,058820,CMG제약,23
-KR,056730,CNT85,24
-KR,000480,CR홀딩스,25
-KR,065770,CS,26
-KR,083660,CSA 코스믹,27
-KR,000590,CS홀딩스,28
-KR,012030,DB,29
-KR,005830,DB손해보험,30
-KR,016610,DB증권,31
-KR,000990,DB하이텍,32
-KR,099520,DGI,33
-KR,000300,DH오토넥스,34
-KR,290120,DH오토리드,35
-KR,025440,DH오토웨어,36
-KR,001530,DI동일,37
-KR,015590,DKME,38
-KR,000210,DL,39
-KR,375500,DL이앤씨,40
-KR,37550L,DL이앤씨2우(전환),41
-KR,068790,DMS,42
-KR,007340,DN오토모티브,43
-KR,004840,DRB동일,44
-KR,241520,DSC인베스트먼트,45
-KR,155660,DSR,46
-KR,069730,DSR제강,47
-KR,017860,DS단석,48
-KR,180400,DXVX,49
-KR,092780,DYP,50
-KR,017940,E1,51
-KR,418620,E8,52
-KR,245620,EDGC,53
-KR,037370,EG,54
-KR,050120,ES큐브,55
-KR,383220,F&F,56
-KR,007700,F&F홀딩스,57
-KR,214270,FSN,58
-KR,032620,GC메디아이,59
-KR,130500,GH신소재,60
-KR,114090,GKL,61
-KR,019570,GMI벤처,62
-KR,900290,GRT,63
-KR,078930,GS,64
-KR,083450,GST,65
-KR,006360,GS건설,66
-KR,001250,GS글로벌,67
-KR,007070,GS리테일,68
-KR,499790,GS피앤엘,69
-KR,297890,HB솔루션,70
-KR,440290,HB인베스트먼트,71
-KR,078150,HB테크놀러지,72
-KR,225530,HC보광산업,73
-KR,060560,HC홈센타,74
-KR,012630,HDC,75
-KR,039570,HDC랩스,76
-KR,089470,HDC현대EP,77
-KR,267270,HD건설기계,78
-KR,009540,HD한국조선해양,79
-KR,267250,HD현대,80
-KR,443060,HD현대마린솔루션,81
-KR,071970,HD현대마린엔진,82
-KR,322000,HD현대에너지솔루션,83
-KR,267260,HD현대일렉트릭,84
-KR,329180,HD현대중공업,85
-KR,376270,HEM파마,86
-KR,097230,HJ중공업,87
-KR,195940,HK이노엔,88
-KR,014790,HL D&I,89
-KR,028300,HLB,90
-KR,003580,HLB글로벌,91
-KR,278650,HLB바이오스텝,92
-KR,067630,HLB생명과학,93
-KR,024850,HLB이노베이션,94
-KR,187420,HLB제넥스,95
-KR,047920,HLB제약,96
-KR,115450,HLB테라퓨틱스,97
-KR,046210,HLB파나진,98
-KR,196300,HLB펩,99
-KR,204320,HL만도,100
+US,CRM,"Salesforce, Inc.",98
+US,T,AT&T Inc.,99
+US,ISRG,"Intuitive Surgical, Inc.",100
+KR,005930,삼성전자,1
+KR,000660,SK하이닉스,2
+KR,402340,SK스퀘어,3
+KR,373220,LG에너지솔루션,4
+KR,009150,삼성전기,5
+KR,207940,삼성바이오로직스,6
+KR,005380,현대차,7
+KR,105560,KB금융,8
+KR,032830,삼성생명,9
+KR,068270,셀트리온,10
+KR,028260,삼성물산,11
+KR,055550,신한지주,12
+KR,000270,기아,13
+KR,006400,삼성SDI,14
+KR,034730,SK,15
+KR,086790,하나금융지주,16
+KR,012450,한화에어로스페이스,17
+KR,012330,현대모비스,18
+KR,034020,두산에너빌리티,19
+KR,329180,HD현대중공업,20
+KR,035420,NAVER,21
+KR,066570,LG전자,22
+KR,316140,우리금융지주,23
+KR,000810,삼성화재,24
+KR,011200,HMM,25
+KR,005490,POSCO홀딩스,26
+KR,033780,KT&G,27
+KR,010120,LS ELECTRIC,28
+KR,298040,효성중공업,29
+KR,015760,한국전력,30
+KR,009540,HD한국조선해양,31
+KR,042700,한미반도체,32
+KR,010130,고려아연,33
+KR,180640,한진칼,34
+KR,096770,SK이노베이션,35
+KR,086280,현대글로비스,36
+KR,003670,포스코퓨처엠,37
+KR,051910,LG화학,38
+KR,024110,기업은행,39
+KR,017670,SK텔레콤,40
+KR,018260,삼성에스디에스,41
+KR,267260,HD현대일렉트릭,42
+KR,003550,LG,43
+KR,035720,카카오,44
+KR,010140,삼성중공업,45
+KR,042660,한화오션,46
+KR,028050,삼성E&A,47
+KR,196170,알테오젠,48
+KR,003490,대한항공,49
+KR,030200,KT,50
+KR,005830,DB손해보험,51
+KR,010950,S-Oil,52
+KR,006800,미래에셋증권,53
+KR,323410,카카오뱅크,54
+KR,278470,에이피알,55
+KR,307950,현대오토에버,56
+KR,047810,한국항공우주,57
+KR,247540,에코프로비엠,58
+KR,086520,에코프로,59
+KR,277810,레인보우로보틱스,60
+KR,003230,삼양식품,61
+KR,272210,한화시스템,62
+KR,259960,크래프톤,63
+KR,267250,HD현대,64
+KR,000150,두산,65
+KR,005940,NH투자증권,66
+KR,047050,포스코인터내셔널,67
+KR,443060,HD현대마린솔루션,68
+KR,090430,아모레퍼시픽,69
+KR,0126Z0,삼성에피스홀딩스,70
+KR,079550,LIG디펜스앤에어로스페이스,71
+KR,000720,현대건설,72
+KR,161390,한국타이어앤테크놀로지,73
+KR,352820,하이브,74
+KR,036930,주성엔지니어링,75
+KR,071050,한국금융지주,76
+KR,021240,코웨이,77
+KR,000500,가온전선,78
+KR,011070,LG이노텍,79
+KR,064350,현대로템,80
+KR,064400,LG씨엔에스,81
+KR,078930,GS,82
+KR,326030,SK바이오팜,83
+KR,016360,삼성증권,84
+KR,032640,LG유플러스,85
+KR,128940,한미약품,86
+KR,000100,유한양행,87
+KR,007660,이수페타시스,88
+KR,006260,LS,89
+KR,039490,키움증권,90
+KR,377300,카카오페이,91
+KR,241560,두산밥캣,92
+KR,175330,JB금융지주,93
+KR,029780,삼성카드,94
+KR,088980,맥쿼리인프라,95
+KR,271560,오리온,96
+KR,009830,한화솔루션,97
+KR,222800,심텍,98
+KR,047040,대우건설,99
+KR,108490,로보티즈,100
