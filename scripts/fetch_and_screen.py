@@ -4,7 +4,7 @@ Outputs (committed by the GitHub Action):
   data/prices/<SYMBOL>.csv   timestamp,high,low,close,volume (newest first, ~150 rows)
   data/universe.csv          market,symbol,name,rank
   data/signals.json          8-method signals for every symbol fetched
-  data/picks.json            top 5 not-held names per market (US, KR) + ALT: top 2 per category (gold, base metals, short bonds)
+  data/picks.json            top 10 not-held names per market (US, KR) + ALT: top 2 per category (gold, base metals, short bonds)
   data/status.json           what worked / failed this run
 """
 import json, os, sys, time, datetime as dt
@@ -175,7 +175,7 @@ for mk, uni in (('US', [s for s, _ in us]), ('KR', [c for c, _, _ in kr])):
         cands.append({"symbol": s, "name": signals[s]['name'], "score": round(sc, 2), "positive": pos, "negative": neg,
                       "asof": signals[s]['asof'], "close": signals[s]['close'], "methods": signals[s]['methods']})
     cands.sort(key=lambda x: (-x['score'], -x['positive']))
-    picks[mk] = cands[:5]
+    picks[mk] = cands[:10]
 
 # Gold / base metals / short-term bonds: best N per category (held ones included, marked)
 alt_picks = []
