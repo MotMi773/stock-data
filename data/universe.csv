@@ -1,20 +1,20 @@
 market,symbol,name,rank
 US,AAPL,Apple Inc.,1
-US,NVDA,NVIDIA Corporation,2
-US,MSFT,Microsoft Corporation,3
+US,MSFT,Microsoft Corporation,2
+US,NVDA,NVIDIA Corporation,3
 US,GOOGL,Alphabet Inc.,4
 US,AMZN,"Amazon.com, Inc.",5
 US,TSM,Taiwan Semiconductor Manufacturing Company Limited,6
 US,SPCX,Space Exploration Technologies Corp.,7
-US,TSLA,"Tesla, Inc.",8
-US,META,"Meta Platforms, Inc.",9
+US,META,"Meta Platforms, Inc.",8
+US,TSLA,"Tesla, Inc.",9
 US,AVGO,Broadcom Inc.,10
 US,LLY,Eli Lilly and Company,11
 US,ANT,"Anthropic, PBC Class A Common Stock",12
 US,WMT,Walmart Inc.,13
 US,JPM,JPMorgan Chase & Co.,14
-US,SKHY,SK hynix Inc.,15
-US,V,Visa Inc.,16
+US,V,Visa Inc.,15
+US,SKHY,SK hynix Inc.,16
 US,MU,"Micron Technology, Inc.",17
 US,AMD,"Advanced Micro Devices, Inc.",18
 US,JNJ,Johnson & Johnson,19
@@ -30,74 +30,74 @@ US,PLTR,Palantir Technologies Inc.,28
 US,CSCO,"Cisco Systems, Inc.",29
 US,HD,"The Home Depot, Inc.",30
 US,MRK,"Merck & Co., Inc.",31
-US,ORCL,Oracle Corporation,32
-US,BAC,Bank of America Corporation,33
-US,GE,GE Aerospace,34
+US,BAC,Bank of America Corporation,32
+US,GE,GE Aerospace,33
+US,ORCL,Oracle Corporation,34
 US,UNH,UnitedHealth Group Incorporated,35
 US,NVS,Novartis AG,36
-US,INTC,Intel Corporation,37
-US,PANW,"Palo Alto Networks, Inc.",38
+US,PANW,"Palo Alto Networks, Inc.",37
+US,INTC,Intel Corporation,38
 US,PM,Philip Morris International Inc.,39
 US,AZN,AstraZeneca PLC,40
-US,HSBC,HSBC Holdings plc,41
-US,QH,Quhuo Limited,42
-US,MS,Morgan Stanley,43
+US,QH,Quhuo Limited,41
+US,HSBC,HSBC Holdings plc,42
+US,SHEL,Shell plc,43
 US,RTX,RTX Corporation,44
-US,SHEL,Shell plc,45
-US,RY,Royal Bank of Canada,46
+US,RY,Royal Bank of Canada,45
+US,MS,Morgan Stanley,46
 US,TMO,Thermo Fisher Scientific Inc.,47
-US,AMAT,"Applied Materials, Inc.",48
-US,AMGN,Amgen Inc.,49
+US,AMGN,Amgen Inc.,48
+US,TM,Toyota Motor Corporation,49
 US,CAT,Caterpillar Inc.,50
-US,TM,Toyota Motor Corporation,51
-US,LRCX,Lam Research Corporation,52
-US,WFC,Wells Fargo & Company,53
-US,NFLX,"Netflix, Inc.",54
+US,AMAT,"Applied Materials, Inc.",51
+US,TXN,Texas Instruments Incorporated,52
+US,NFLX,"Netflix, Inc.",53
+US,WFC,Wells Fargo & Company,54
 US,SAP,SAP SE,55
 US,LIN,Linde plc,56
-US,TXN,Texas Instruments Incorporated,57
+US,LRCX,Lam Research Corporation,57
 US,GS,"The Goldman Sachs Group, Inc.",58
 US,IBM,International Business Machines Corporation,59
-US,GILD,"Gilead Sciences, Inc.",60
-US,MUFG,"Mitsubishi UFJ Financial Group, Inc.",61
+US,MUFG,"Mitsubishi UFJ Financial Group, Inc.",60
+US,GILD,"Gilead Sciences, Inc.",61
 US,CRWD,"CrowdStrike Holdings, Inc.",62
-US,ANET,"Arista Networks, Inc.",63
-US,BABA,Alibaba Group Holding Limited,64
-US,DIS,The Walt Disney Company,65
-US,AXP,American Express Company,66
+US,BABA,Alibaba Group Holding Limited,63
+US,DIS,The Walt Disney Company,64
+US,AXP,American Express Company,65
+US,ANET,"Arista Networks, Inc.",66
 US,MCD,McDonald's Corporation,67
-US,VZ,Verizon Communications Inc.,68
-US,PEP,"PepsiCo, Inc.",69
-US,GEV,GE Vernova Inc.,70
-US,TD,The Toronto-Dominion Bank,71
-US,C,Citigroup Inc.,72
-US,DELL,Dell Technologies Inc.,73
+US,PEP,"PepsiCo, Inc.",68
+US,VZ,Verizon Communications Inc.,69
+US,TD,The Toronto-Dominion Bank,70
+US,GEV,GE Vernova Inc.,71
+US,DELL,Dell Technologies Inc.,72
+US,C,Citigroup Inc.,73
 US,TTE,TotalEnergies SE,74
 US,ABT,Abbott Laboratories,75
-US,APH,Amphenol Corporation,76
-US,WELL,Welltower Inc.,77
-US,NVO,Novo Nordisk A/S,78
-US,NEE,"NextEra Energy, Inc.",79
-US,TMUS,"T-Mobile US, Inc.",80
-US,BLK,"BlackRock, Inc.",81
-US,BHP,BHP Group Limited,82
-US,QCOM,QUALCOMM Incorporated,83
-US,KLAC,KLA Corporation,84
-US,ARM,Arm Holdings plc,85
-US,UNP,Union Pacific Corporation,86
-US,SHOP,Shopify Inc.,87
-US,SAN,"Banco Santander, S.A.",88
-US,DE,Deere & Company,89
-US,PFE,Pfizer Inc.,90
-US,SCHW,The Charles Schwab Corporation,91
-US,SONY,Sony Group Corporation,92
-US,DHR,Danaher Corporation,93
-US,COP,ConocoPhillips,94
-US,CRM,"Salesforce, Inc.",95
-US,TJX,"The TJX Companies, Inc.",96
-US,BUD,Anheuser-Busch InBev SA/NV,97
-US,T,AT&T Inc.,98
-US,ADI,"Analog Devices, Inc.",99
+US,WELL,Welltower Inc.,76
+US,NVO,Novo Nordisk A/S,77
+US,QCOM,QUALCOMM Incorporated,78
+US,APH,Amphenol Corporation,79
+US,BHP,BHP Group Limited,80
+US,NEE,"NextEra Energy, Inc.",81
+US,UNP,Union Pacific Corporation,82
+US,BLK,"BlackRock, Inc.",83
+US,TMUS,"T-Mobile US, Inc.",84
+US,KLAC,KLA Corporation,85
+US,DE,Deere & Company,86
+US,ARM,Arm Holdings plc,87
+US,SHOP,Shopify Inc.,88
+US,SONY,Sony Group Corporation,89
+US,SAN,"Banco Santander, S.A.",90
+US,CRM,"Salesforce, Inc.",91
+US,PFE,Pfizer Inc.,92
+US,TJX,"The TJX Companies, Inc.",93
+US,SCHW,The Charles Schwab Corporation,94
+US,ADI,"Analog Devices, Inc.",95
+US,DHR,Danaher Corporation,96
+US,COP,ConocoPhillips,97
+US,BUD,Anheuser-Busch InBev SA/NV,98
+US,T,AT&T Inc.,99
 US,ISRG,"Intuitive Surgical, Inc.",100
 KR,060310,3S,1
 KR,095570,AJ네트웍스,2
