@@ -1,7 +1,10 @@
 {
- "run_at": "2026-11-26T08:45:38.395624Z",
- "errors": [],
- "kr_universe_source": "fdr",
+ "run_at": "2026-11-27T03:46:22.205459Z",
+ "errors": [
+  "kr listing fdr: market cap missing (0 rows)",
+  "kr listing pykrx: \"None of [Index(['종가', '시가총액', '거래량', '거래대금'], dtype='object')] are in the [columns]\""
+ ],
+ "kr_universe_source": "yfinance",
  "fetched": 219,
  "missing": [
   "ANT"
