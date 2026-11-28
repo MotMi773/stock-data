@@ -13,8 +13,8 @@ US,LLY,Eli Lilly and Company,11
 US,ANT,"Anthropic, PBC",12
 US,WMT,Walmart Inc.,13
 US,JPM,JPMorgan Chase & Co.,14
-US,V,Visa Inc.,15
-US,SKHY,SK hynix Inc.,16
+US,SKHY,SK hynix Inc.,15
+US,V,Visa Inc.,16
 US,MU,"Micron Technology, Inc.",17
 US,AMD,"Advanced Micro Devices, Inc.",18
 US,JNJ,Johnson & Johnson,19
@@ -24,9 +24,9 @@ US,ABBV,AbbVie Inc.,22
 US,ASML,ASML Holding N.V.,23
 US,COST,Costco Wholesale Corporation,24
 US,KO,The Coca-Cola Company,25
-US,CVX,Chevron Corporation,26
-US,PG,The Procter & Gamble Company,27
-US,PLTR,Palantir Technologies Inc.,28
+US,PLTR,Palantir Technologies Inc.,26
+US,CVX,Chevron Corporation,27
+US,PG,The Procter & Gamble Company,28
 US,CSCO,"Cisco Systems, Inc.",29
 US,HD,"The Home Depot, Inc.",30
 US,MRK,"Merck & Co., Inc.",31
@@ -34,168 +34,168 @@ US,BAC,Bank of America Corporation,32
 US,GE,GE Aerospace,33
 US,ORCL,Oracle Corporation,34
 US,UNH,UnitedHealth Group Incorporated,35
-US,NVS,Novartis AG,36
+US,INTC,Intel Corporation,36
 US,PANW,"Palo Alto Networks, Inc.",37
-US,INTC,Intel Corporation,38
-US,PM,Philip Morris International Inc.,39
+US,PM,Philip Morris International Inc.,38
+US,NVS,Novartis AG,39
 US,AZN,AstraZeneca PLC,40
 US,HSBC,HSBC Holdings plc,41
 US,SHEL,Shell plc,42
 US,RTX,RTX Corporation,43
-US,RY,Royal Bank of Canada,44
-US,MS,Morgan Stanley,45
-US,TMO,Thermo Fisher Scientific Inc.,46
-US,AMGN,Amgen Inc.,47
-US,TM,Toyota Motor Corporation,48
-US,CAT,Caterpillar Inc.,49
-US,AMAT,"Applied Materials, Inc.",50
-US,TXN,Texas Instruments Incorporated,51
+US,MS,Morgan Stanley,44
+US,RY,Royal Bank of Canada,45
+US,TXN,Texas Instruments Incorporated,46
+US,CAT,Caterpillar Inc.,47
+US,AMGN,Amgen Inc.,48
+US,AMAT,"Applied Materials, Inc.",49
+US,TMO,Thermo Fisher Scientific Inc.,50
+US,TM,Toyota Motor Corporation,51
 US,NFLX,"Netflix, Inc.",52
 US,WFC,Wells Fargo & Company,53
 US,SAP,SAP SE,54
 US,LIN,Linde plc,55
 US,LRCX,Lam Research Corporation,56
-US,GS,"The Goldman Sachs Group, Inc.",57
-US,IBM,International Business Machines Corporation,58
+US,IBM,International Business Machines Corporation,57
+US,GS,"The Goldman Sachs Group, Inc.",58
 US,MUFG,"Mitsubishi UFJ Financial Group, Inc.",59
-US,GILD,"Gilead Sciences, Inc.",60
-US,CRWD,"CrowdStrike Holdings, Inc.",61
-US,BABA,Alibaba Group Holding Limited,62
-US,DIS,The Walt Disney Company,63
-US,AXP,American Express Company,64
-US,ANET,"Arista Networks, Inc.",65
-US,MCD,McDonald's Corporation,66
-US,PEP,"PepsiCo, Inc.",67
-US,VZ,Verizon Communications Inc.,68
-US,TD,The Toronto-Dominion Bank,69
+US,CRWD,"CrowdStrike Holdings, Inc.",60
+US,BABA,Alibaba Group Holding Limited,61
+US,ANET,"Arista Networks, Inc.",62
+US,GILD,"Gilead Sciences, Inc.",63
+US,DIS,The Walt Disney Company,64
+US,AXP,American Express Company,65
+US,DELL,Dell Technologies Inc.,66
+US,MCD,McDonald's Corporation,67
+US,PEP,"PepsiCo, Inc.",68
+US,VZ,Verizon Communications Inc.,69
 US,GEV,GE Vernova Inc.,70
-US,DELL,Dell Technologies Inc.,71
+US,QCOM,QUALCOMM Incorporated,71
 US,C,Citigroup Inc.,72
-US,TTE,TotalEnergies SE,73
-US,ABT,Abbott Laboratories,74
-US,WELL,Welltower Inc.,75
-US,NVO,Novo Nordisk A/S,76
-US,QCOM,QUALCOMM Incorporated,77
-US,APH,Amphenol Corporation,78
-US,BHP,BHP Group Limited,79
-US,NEE,"NextEra Energy, Inc.",80
-US,UNP,Union Pacific Corporation,81
-US,BLK,"BlackRock, Inc.",82
+US,TD,The Toronto-Dominion Bank,73
+US,TTE,TotalEnergies SE,74
+US,BHP,BHP Group Limited,75
+US,ABT,Abbott Laboratories,76
+US,APH,Amphenol Corporation,77
+US,ARM,Arm Holdings plc,78
+US,KLAC,KLA Corporation,79
+US,WELL,Welltower Inc.,80
+US,SHOP,Shopify Inc.,81
+US,NVO,Novo Nordisk A/S,82
 US,TMUS,"T-Mobile US, Inc.",83
-US,KLAC,KLA Corporation,84
-US,DE,Deere & Company,85
-US,ARM,Arm Holdings plc,86
-US,SHOP,Shopify Inc.,87
-US,SONY,Sony Group Corporation,88
-US,SAN,"Banco Santander, S.A.",89
+US,BLK,"BlackRock, Inc.",84
+US,NEE,"NextEra Energy, Inc.",85
+US,UNP,Union Pacific Corporation,86
+US,DE,Deere & Company,87
+US,SAN,"Banco Santander, S.A.",88
+US,ADI,"Analog Devices, Inc.",89
 US,CRM,"Salesforce, Inc.",90
-US,PFE,Pfizer Inc.,91
-US,SCHW,The Charles Schwab Corporation,92
-US,ADI,"Analog Devices, Inc.",93
-US,TJX,"The TJX Companies, Inc.",94
+US,SONY,Sony Group Corporation,91
+US,PFE,Pfizer Inc.,92
+US,SCHW,The Charles Schwab Corporation,93
+US,COP,ConocoPhillips,94
 US,DHR,Danaher Corporation,95
-US,COP,ConocoPhillips,96
-US,BUD,Anheuser-Busch InBev SA/NV,97
-US,T,AT&T Inc.,98
+US,TJX,"The TJX Companies, Inc.",96
+US,T,AT&T Inc.,97
+US,BUD,Anheuser-Busch InBev SA/NV,98
 US,ISRG,"Intuitive Surgical, Inc.",99
 US,HDB,HDFC Bank Limited,100
-KR,005930,"Samsung Electronics Co., Ltd.",1
-KR,000660,SK hynix Inc.,2
-KR,402340,"SK Square Co., Ltd.",3
-KR,373220,"LG Energy Solution, Ltd.",4
-KR,005380,Hyundai Motor Company,5
-KR,207940,"Samsung Biologics Co.,Ltd.",6
-KR,009150,"Samsung Electro-Mechanics Co., Ltd.",7
-KR,068270,"Celltrion, Inc.",8
-KR,105560,KB Financial Group Inc.,9
-KR,032830,"Samsung Life Insurance Co., Ltd.",10
-KR,028260,Samsung C&T Corporation,11
-KR,055550,"Shinhan Financial Group Co., Ltd.",12
-KR,000270,Kia Corporation,13
-KR,006400,"Samsung SDI Co., Ltd.",14
-KR,012450,"Hanwha Aerospace Co., Ltd.",15
-KR,086790,Hana Financial Group Inc.,16
-KR,012330,"Hyundai Mobis Co.,Ltd",17
-KR,034020,"Doosan Enerbility Co., Ltd.",18
-KR,329180,"HD Hyundai Heavy Industries Co., Ltd.",19
-KR,066570,LG Electronics Inc.,20
-KR,034730,SK Inc.,21
-KR,035420,NAVER Corporation,22
-KR,316140,Woori Financial Group Inc.,23
-KR,000810,"Samsung Fire & Marine Insurance Co., Ltd.",24
-KR,011200,"HMM Co.,Ltd",25
-KR,138040,Meritz Financial Group Inc.,26
-KR,005490,POSCO Holdings Inc.,27
-KR,033780,KT&G Corporation,28
-KR,010120,"LS ELECTRIC Co., Ltd.",29
-KR,180640,Hanjin Kal,30
-KR,051910,"LG Chem, Ltd.",31
-KR,009540,"HD Korea Shipbuilding & Offshore Engineering Co., Ltd.",32
-KR,096770,"SK Innovation Co., Ltd.",33
-KR,010130,"Korea Zinc Company, Ltd.",34
-KR,298040,Hyosung Heavy Industries Corporation,35
-KR,003670,"Posco Future M Co., Ltd.",36
-KR,086280,"Hyundai Glovis Co., Ltd.",37
-KR,042700,"HANMI Semiconductor Co., Ltd.",38
-KR,018260,"Samsung SDS Co., Ltd.",39
-KR,267260,"HD Hyundai Electric Co., Ltd.",40
-KR,024110,Industrial Bank of Korea,41
-KR,003550,LG Corp.,42
-KR,017670,"SK Telecom Co., Ltd.",43
-KR,035720,Kakao Corp.,44
-KR,042660,"Hanwha Ocean Co., Ltd.",45
-KR,006800,"Mirae Asset Securities Co., Ltd.",46
-KR,196170,ALTEOGEN Inc.,47
-KR,010140,"Samsung Heavy Industries Co., Ltd.",48
-KR,010950,S-Oil Corporation,49
-KR,028050,"Samsung E&A Co., Ltd.",50
-KR,003490,"Korean Airlines Co.,Ltd.",51
-KR,278470,"APR Co., Ltd.",52
-KR,323410,KakaoBank Corp.,53
-KR,030200,KT Corporation,54
-KR,272210,"Hanwha Systems Co., Ltd.",55
-KR,047810,"Korea Aerospace Industries, Ltd.",56
-KR,307950,Hyundai Autoever Corporation,57
-KR,277810,"Rainbow Robotics Co.,Ltd.",58
-KR,090430,Amorepacific Corporation,59
-KR,005830,"DB Insurance Co., Ltd.",60
-KR,003230,"Samyang Foods Co., Ltd.",61
-KR,247540,"EcoPro BM Co., Ltd.",62
-KR,086520,"Ecopro Co., Ltd.",63
-KR,000150,Doosan Corporation,64
-KR,079550,"LIG Defense&Aerospace Co., Ltd.",65
-KR,005940,"NH Investment & Securities Co., Ltd.",66
-KR,259960,"KRAFTON, Inc.",67
-KR,267250,"HD Hyundai Co., Ltd.",68
-KR,443060,"HD Hyundai Marine Solution CO.,LTD.",69
-KR,071050,"Korea Investment Holdings Co., Ltd.",70
-KR,047050,Posco International Corporation,71
-KR,352820,"HYBE Co., Ltd.",72
-KR,000720,"Hyundai Engineering & Construction Co.,Ltd.",73
-KR,326030,"SK Biopharmaceuticals Co., Ltd.",74
-KR,161390,"Hankook Tire & Technology Co., Ltd.",75
-KR,036930,"JUSUNG ENGINEERING Co.,Ltd.",76
-KR,021240,"COWAY Co., Ltd.",77
-KR,064400,"LG CNS Co., Ltd.",78
-KR,064350,Hyundai Rotem Company,79
-KR,016360,"Samsung Securities Co.,Ltd.",80
-KR,078930,GS Holdings Corp.,81
-KR,011070,"LG Innotek Co., Ltd.",82
-KR,128940,"Hanmi Pharm. Co., Ltd.",83
-KR,032640,LG Uplus Corp.,84
-KR,000100,Yuhan Corporation,85
-KR,000500,"GAON CABLE Co., Ltd.",86
-KR,039490,"Kiwoom Securities Co., Ltd.",87
-KR,007660,"ISU Petasys Co., Ltd.",88
-KR,000880,Hanwha Corporation,89
-KR,241560,Doosan Bobcat Inc.,90
-KR,009830,Hanwha Solutions Corporation,91
-KR,271560,ORION Corp.,92
-KR,006260,LS Corp.,93
-KR,377300,Kakao Pay Corp.,94
-KR,029780,"Samsung Card Co., Ltd.",95
-KR,175330,"JB Financial Group Co., Ltd.",96
-KR,108490,"ROBOTIS Co., Ltd.",97
-KR,000250,"Sam Chun Dang Pharm. Co., Ltd",98
-KR,001040,CJ Corporation,99
-KR,047040,"Daewoo Engineering & Construction Co., Ltd.",100
+KR,005930,삼성전자,1
+KR,000660,SK하이닉스,2
+KR,402340,SK스퀘어,3
+KR,373220,LG에너지솔루션,4
+KR,207940,삼성바이오로직스,5
+KR,009150,삼성전기,6
+KR,005380,현대차,7
+KR,105560,KB금융,8
+KR,068270,셀트리온,9
+KR,032830,삼성생명,10
+KR,028260,삼성물산,11
+KR,055550,신한지주,12
+KR,000270,기아,13
+KR,006400,삼성SDI,14
+KR,034730,SK,15
+KR,012450,한화에어로스페이스,16
+KR,086790,하나금융지주,17
+KR,012330,현대모비스,18
+KR,034020,두산에너빌리티,19
+KR,329180,HD현대중공업,20
+KR,035420,NAVER,21
+KR,066570,LG전자,22
+KR,000810,삼성화재,23
+KR,316140,우리금융지주,24
+KR,011200,HMM,25
+KR,005490,POSCO홀딩스,26
+KR,033780,KT&G,27
+KR,010120,LS ELECTRIC,28
+KR,010130,고려아연,29
+KR,180640,한진칼,30
+KR,015760,한국전력,31
+KR,009540,HD한국조선해양,32
+KR,096770,SK이노베이션,33
+KR,298040,효성중공업,34
+KR,051910,LG화학,35
+KR,018260,삼성에스디에스,36
+KR,003670,포스코퓨처엠,37
+KR,042700,한미반도체,38
+KR,086280,현대글로비스,39
+KR,267260,HD현대일렉트릭,40
+KR,024110,기업은행,41
+KR,003550,LG,42
+KR,017670,SK텔레콤,43
+KR,035720,카카오,44
+KR,042660,한화오션,45
+KR,196170,알테오젠,46
+KR,010140,삼성중공업,47
+KR,006800,미래에셋증권,48
+KR,028050,삼성E&A,49
+KR,030200,KT,50
+KR,278470,에이피알,51
+KR,010950,S-Oil,52
+KR,003490,대한항공,53
+KR,323410,카카오뱅크,54
+KR,272210,한화시스템,55
+KR,005830,DB손해보험,56
+KR,307950,현대오토에버,57
+KR,277810,레인보우로보틱스,58
+KR,047810,한국항공우주,59
+KR,247540,에코프로비엠,60
+KR,086520,에코프로,61
+KR,003230,삼양식품,62
+KR,259960,크래프톤,63
+KR,0126Z0,삼성에피스홀딩스,64
+KR,267250,HD현대,65
+KR,079550,LIG디펜스앤에어로스페이스,66
+KR,005940,NH투자증권,67
+KR,443060,HD현대마린솔루션,68
+KR,047050,포스코인터내셔널,69
+KR,090430,아모레퍼시픽,70
+KR,352820,하이브,71
+KR,000150,두산,72
+KR,000720,현대건설,73
+KR,071050,한국금융지주,74
+KR,326030,SK바이오팜,75
+KR,161390,한국타이어앤테크놀로지,76
+KR,036930,주성엔지니어링,77
+KR,064400,LG씨엔에스,78
+KR,021240,코웨이,79
+KR,064350,현대로템,80
+KR,016360,삼성증권,81
+KR,011070,LG이노텍,82
+KR,078930,GS,83
+KR,128940,한미약품,84
+KR,032640,LG유플러스,85
+KR,000500,가온전선,86
+KR,039490,키움증권,87
+KR,000100,유한양행,88
+KR,006260,LS,89
+KR,007660,이수페타시스,90
+KR,029780,삼성카드,91
+KR,241560,두산밥캣,92
+KR,009830,한화솔루션,93
+KR,088980,맥쿼리인프라,94
+KR,377300,카카오페이,95
+KR,271560,오리온,96
+KR,175330,JB금융지주,97
+KR,000250,삼천당제약,98
+KR,108490,로보티즈,99
+KR,047040,대우건설,100
